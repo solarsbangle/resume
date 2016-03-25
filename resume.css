@@ -1,0 +1,50 @@
+div {
+    border: solid #45B39D 1px;
+    border-radius: 5px;
+    background-color: #E9F7EF;
+    font-family: arial;
+}
+
+#header {
+    height: 40px;
+    width: 80%;
+    position: fixed;
+    z-index: 1;
+    margin-top: -45px;
+}
+
+#footer {
+    height: 25px;
+    width: 80%;
+    clear: both;
+
+}
+
+#body {
+    border: none; /* #for ID, . for class */
+    border-radius: none;
+    width: 62%;
+    padding: 10px;
+    
+}
+
+.left {
+    height: 300px;
+    width: 150px;
+    float: left;
+    position: relative;
+
+}
+
+.right {
+    width: 60%;
+    position: relative;
+    margin-top: 45px;
+    margin-bottom: 5px;
+    margin-left: 175px;
+}
+
+
+
+
+
